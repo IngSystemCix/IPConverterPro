@@ -1,0 +1,27 @@
+Licencia de Uso para IP Converter Pro
+
+Este documento constituye un acuerdo legal entre Juan Bladimir Romero Collazos, el creador de IP Converter Pro, y el usuario final del software. Al instalar, copiar o utilizar IP Converter Pro, usted acepta estar sujeto a los términos y condiciones de esta licencia.
+
+1. Concesión de Licencia:
+Se otorga al usuario una licencia no exclusiva y no transferible para utilizar IP Converter Pro de acuerdo con los términos y condiciones establecidos en este documento.
+
+2. Restricciones:
+El usuario no está autorizado a sublicenciar, distribuir, vender, alquilar, arrendar o transferir de ninguna manera los derechos otorgados por esta licencia. El usuario tampoco podrá realizar ingeniería inversa, descompilar, desensamblar o modificar de alguna manera el código fuente de IP Converter Pro.
+
+3. Propiedad Intelectual:
+IP Converter Pro y todos los derechos de propiedad intelectual asociados son propiedad exclusiva de Juan Bladimir Romero Collazos. El usuario reconoce que esta licencia no otorga ningún derecho de propiedad sobre el software, excepto el derecho limitado de uso establecido en este documento.
+
+4. Garantía y Limitación de Responsabilidad:
+IP Converter Pro se proporciona "tal cual", sin garantía de ningún tipo, ya sea expresa o implícita. En ningún caso Juan Bladimir Romero Collazos será responsable de ningún daño directo, indirecto, incidental, especial o consecuente que surja del uso o la imposibilidad de utilizar IP Converter Pro.
+
+5. Término y Terminación:
+Esta licencia es efectiva hasta su terminación. Juan Bladimir Romero Collazos se reserva el derecho de rescindir esta licencia en cualquier momento si el usuario incumple alguno de los términos y condiciones establecidos en este documento. En caso de terminación, el usuario deberá dejar de utilizar IP Converter Pro y destruir todas las copias del software en su posesión.
+
+Al instalar, copiar o utilizar IP Converter Pro, el usuario acepta todos los términos y condiciones de esta licencia. Si no está de acuerdo con estos términos, no instale ni utilice el software.
+
+Fecha de entrada en vigencia: 22/04/2024
+
+Firmado,
+
+Juan Bladimir Romero Collazos
+Ingiero en sistemas e informática
